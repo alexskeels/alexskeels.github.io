@@ -1,0 +1,15 @@
+---
+title: "Software and Workshops"
+---
+
+## Workshop Materials
+
+Center for Biodiversity Analysis: Gen3sis Workshop 2024
+
+## R Tools
+
+DReAD
+
+Lineages Through Space and Time in R (ltstR)
+
+waRhol

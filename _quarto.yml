@@ -9,6 +9,7 @@ website:
         text: Home
       - publications.qmd
       - cv.qmd
+      - software.qmd
       - posters.qmd
       - contact.qmd
 format:
