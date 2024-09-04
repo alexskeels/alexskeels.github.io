@@ -4,6 +4,8 @@ title: "Publications"
 
 #### Journal articles
 
+Moroti, M. D. T., **Skeels, A.**, da Silva, F. R., Provete, D. B. 2024.Climate Interacts With Diversification Rate in Determining Species Richness and Trait Diversity of Tetrapods in a Global Hotspot. *Journal of Biogeography*.
+
 Langmore, N. E., Grealy, A. Noh, H.J., Medina, I., **Skeels, A.**, et al. 2024. [Coevolution with hosts underpins speciation in brood-parasitic cuckoos](https://www.science.org/doi/10.1126/science.adj3210). *Science*. 384,1030-1036.
 
 ![Superb fairy wren feeding a aparasitic cuckoo on the cover of Science for Langmore et al. (2024)](pictures/Science_Cover.jpg){width=500 fig-align="center"}

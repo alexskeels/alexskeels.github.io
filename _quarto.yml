@@ -14,7 +14,7 @@ website:
       - contact.qmd
 format:
   html:
-    theme: pulse
+    theme: journal
     css: styles.css
     toc: true
 
