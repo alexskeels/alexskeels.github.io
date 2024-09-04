@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Alex Skeels"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - publications.qmd
+      - cv.qmd
+      - posters.qmd
+      - contact.qmd
+format:
+  html:
+    theme: pulse
+    css: styles.css
+    toc: true
+
+editor: visual
+

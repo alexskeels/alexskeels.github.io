@@ -1,0 +1,9 @@
+---
+title: "Posters"
+---
+
+![3rd Joint Congress of Evolutionary Biology 2024 - Montreal, Canada](posters/EVOL_2024.jpg)
+
+![WSL Social Science Day - Birmensdorf, Swizterland](posters/WSL_2021.png)
+
+![Australasian Evolution Society Meeting 2019 - Sydney, Australia](posters/AES_2019.jpg)

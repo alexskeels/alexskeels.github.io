@@ -1,0 +1,65 @@
+---
+title: "Publications"
+---
+
+#### Journal articles
+
+Langmore, N. E., Grealy, A. Noh, H.J., Medina, I., **Skeels, A.**, et al. 2024. [Coevolution with hosts underpins speciation in brood-parasitic cuckoos](https://www.science.org/doi/10.1126/science.adj3210). *Science*. 384,1030-1036.
+
+![Superb fairy wren feeding a aparasitic cuckoo on the cover of Science for Langmore et al. (2024)](pictures/Science_Cover.jpg){width=500 fig-align="center"}
+
+Keggin, T. Waldock, C., **Skeels, A.**, Hagen O., Albouy, C., Manel, S., Pellissier, L. 2023. [Diversity across organisational scale emerges through dispersal ability and speciation dynamics in tropical fish](https://link.springer.com/article/10.1186/s12915-023-01771-3). *BMC Biology*. 21, 282.
+
+Coelho, M.T.P., Barreto, E., Rangel, T.F. Diniz-Filho, J.A. F., Wüest, R. O., Bach, W. **Skeels, A.**, et al. 2023. [The geography of climate and the global patterns of species diversity](https://doi.org/10.1038/s41586-023-06577-5). *Nature* 622, 537--544.
+
+Yaxley, K. J., **Skeels, A.**, & Foley, R. A. 2023. [Global variation in the relationship between avian phylogenetic diversity and functional distance is driven by environmental context and constraints](https://doi.org/10.1111/geb.13762). *Global Ecology and Biogeography*, 32, 2122--2134.
+
+**Skeels, A.** & Yaxley, Y. 2023. [Functional endemism captures hotspots of unique phenotypes and restricted ranges](https://doi.org/10.1111/ecog.06913). *Ecography*. e06913.
+
+Tiatragul, S., **Skeels, A.**, Keogh, J. S. 2023. [Paleoenvironmental models for Australia and the impact of aridification on blindsnake diversification](https://doi.org/10.1111/jbi.14700). *Journal of Biogeography*. 50, 1899--1913.
+
+**Skeels, A.**, Boschman, L., McFadden., I. M. et al. 2023. [Paleoenvironments shaped the exchange of terrestrial vertebrates across Wallace's Line](https://www.science.org/stoken/author-tokens/ST-1301/full). *Science*. 381, 86-92
+
+Cardillo, M., **Skeels, A.** Dinnage, R. 2023. [Priorities for conserving the world's terrestrial mammals based on over-the-horizon extinction risk](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fvEE3s4AAAAJ&sortby=pubdate&citation_for_view=fvEE3s4AAAAJ:_FxGoFyzp5QC). *Current Biology*. 33 (7), 1381-1388. e6.
+
+![Long-nosed Bandicoot (Perameles nasuta) on the cover of Current Biology (Cardillo, Skeels, Dinnage 2023). Photo from colleague, D. Esquerre.](pictures/Current_Biology_Cover.jpg){width=500 fig-align="center"}
+
+**Skeels, A.**, Bach, W., Hagen, O., Jetz, W., Pellissier, L. 2023. [Temperature-Dependent Evolutionary Speed Shapes the Evolution of Biodiversity Patterns Across Tetrapod Radiations](https://doi.org/10.1093/sysbio/syac048). *Systematic Biology*. 72 (2), 341-356.
+
+Pavón‐Vázquez, C. J., Brennan, I. G., **Skeels, A.**, Keogh, J. S. 2022. [Competition and geography underlie speciation and morphological evolution in Indo‐Australasian monitor lizards](https://onlinelibrary.wiley.com/doi/10.1111/evo.14403). *Evolution*. 76 (3), 476-495.
+
+Hagen, O.\*, **Skeels, A.**\*, Onstein, R. E., Jetz, W., Pellissier, L. 2021. [Earth history events shaped the evolution of uneven biodiversity across tropical moist forests](https://www.pnas.org/content/118/40/e2026347118). *Proceedings of the National Academy of Sciences*. 118 (40) e2026347118. \*equal contribution
+
+**Skeels, A.**, Dinnage, R. Medina, I. Cardillo, M. 2021. [Ecological interactions shape the evolution of flower colour in communities across a temperate biodiversity hotspot](http://doi.org/10.1002/evl3.225). *Evolution Letters*. 5 (3), 277-289.
+
+Bromham, L., **Skeels, A.**, Schneemann, H., Dinnage, R., Hua, X. 2021. [There is little evidence that spicy food in hot countries is an adaptation to reducing infection risk](https://www.nature.com/articles/s41562-020-01039-8). *Nature Human Behaviour*, 1-14.
+
+Dinnage, R., **Skeels, A.** & Cardillo, M. 2020. [Spatiophylogenetic modelling of extinction risk reveals evolutionary distinctiveness and brief flowering period as risk factors in a diverse hotspot plant genus](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.2817). *Proceedings of the Royal Society B*. 287 (1926), 20192817.
+
+**Skeels, A.** Esquerré, D., & Cardillo, M. 2020. [Alternative pathways to diversity across ecologically distinct lizard radiations](https://alexskeels.com/publications/void(0)). *Global Ecology and Biogeography*. 29 (3), 454-469.
+
+**Skeels, A.** & Cardillo, M. 2019. [Equilibrium and non‐equilibrium phases in the radiation of hakea and the drivers of diversity in Mediterranean‐type ecosystems](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13769). *Evolution*. 73 (7) 1392-1410.
+
+![Hakea on the cover of Evolution, photo taken by me at the Australian National Botanical Gardens in Canebrra](pictures/Evolution_Cover.png){width=500 fig-align="center"}
+
+**Skeels, A.** & Cardillo, M. 2019. [Reconstructing the Geography of Speciation from Contemporary Biodiversity Data](https://www.journals.uchicago.edu/doi/abs/10.1086/701125). *American Naturalist*. 193 (2), 240-255.
+
+**Skeels, A.** & Cardillo, M. 2017. [Environmental niche conservatism explains the accumulation of species richness in Mediterranean‐hotspot plant genera](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13179). *Evolution*. 71 (3), 582-594.
+
+Cardillo, M. & **Skeels A.** 2016. [Spatial, phylogenetic, environmental and biological components of variation in extinction risk: a case study using Banksia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0154431). *PLoS One*. 11(5) e0154431.
+
+#### Software, notes, and commentaries
+
+O. El‐Deeb\*, **Skeels, A.**\*, & Brennan, I. 2020. [Digest: The evolutionary relationship between environment and size in Australian rodents](https://alexskeels.com/publications/void(0)). Evolution. [doi.org/10.1111/evo.13909](https://doi.org/10.1111/evo.13909). \*equal contribution
+
+**Skeels, A.** 2019. [Lineages through space and time plots: visualising spatial and temporal changes in diversity](https://escholarship.org/uc/item/1521z9pb). Frontiers of Biogeography. 11 (2), e42954.
+
+#### General audience / Explainers
+
+Skeels, A. 2023. [Why are there hopping mice in Australia but no kangaroos in Asia? It's a long story](https://theconversation.com/why-are-there-hopping-mice-in-australia-but-no-kangaroos-in-asia-its-a-long-story-209067). The Conversation.
+
+ANU media. 2023. [Here's why you won't find kangaroos outside of Australia](https://www.anu.edu.au/news/all-news/heres-why-you-wont-find-kangaroos-outside-of-australia). ANU media release.
+
+Skeels, A. 2021. [Competition drives flower colour evolution in a biodiversity hotspot](https://alexskeels.com/?page_id=252). Explainer in *Evolution Letters*.
+
+ANU media. 2021. [New research could help save species from extinction](https://www.anu.edu.au/news/all-news/new-research-could-help-save-species-from-extinction). ANU media release.
