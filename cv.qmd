@@ -4,7 +4,9 @@ title: "CV"
 
 **Professional Appointments**
 
-*Current:* Postdoctoral Research Fellow at the Australian National University (ANU)
+*2025 onwards*: Australian Research Council DECRA Fellow, Australian National University.
+
+*2023-2025:* Postdoctoral Research Fellow at the Australian National University (ANU)
 
 *2020-2023:* Postdoctoral Researcher at the Swiss Federal Institute of Technology in Zürich (ETH Zürich) and Swiss Federal Research Institute for Forest, Snow, and Landscape (WSL)
 
@@ -18,9 +20,15 @@ Bachelor of Science (Honours), Australian National University, Canberra, 2015.
 
 **Publications**
 
-Find them [here](https://alexskeels.com/publications/) or at Google [Scholar](https://scholar.google.com.au/citations?user=fvEE3s4AAAAJ&hl=en)
+Google [Scholar](https://scholar.google.com.au/citations?user=fvEE3s4AAAAJ&hl=en)
 
 **Invited Talks**
+
+University of Wollongong, New South Wales (2024)
+
+Ecology and Evolution Seminar Series, Australian National University (2023).
+
+Biogeography of Tropical Asia Sysmposium, National University of Singapore, Singapore (2023).
 
 Center for Biodiversity and Global Change, Yale. Understanding the evolution of biodiversity with process-based simulation models (2022).
 
@@ -31,6 +39,8 @@ British Ecological Society Macroecology Meeting, St. Andrews, United Kingdom (20
 Tempo and Mode Seminar Series, Australian National University (2018).
 
 **Conference Talks** **and Presentations**
+
+The Third AsiaEvo conference, Singapore (2023)
 
 Biology '22. Meeting of the Swiss Zoological, Botanical, and Systematics Societies (2022)
 
@@ -48,21 +58,36 @@ British Ecological Society Macroecology Meeting, St. Andrews, United Kingdom (20
 
 ANU Research School of Biology HDR Student Conference (2016, 2017, 2018).
 
+**Organised Symposia**
+
+Biotic interchanges across taxa through molecular and fossil data. 3rd Joint Congress of Evolutionary Biology, 2024, Montreal, Canada
+
 **Awards and Grants**
 
-Poster Award, Australasian Evolution Society (2019)
+Discovery Early Career Research Award, Australian Research Council (2025) - DE250100004: How environmental change drives the origin and decline of biodiversity - $486,675
 
-Student Plenary Award, British Ecological Society Macroecology Meeting (2018)
+Research School of Biology Early Career Researcher Travel top-up grant, Australian National University (2024) - $2,000
 
-Graduate Student Research Award, Society of Systematic Biologists (2018)
+Early Career Researcher Travel Grant, Australian National University (2024) - $3,000
+
+Training support Grant, Centre for Biodiversity Analysis (2023) - $10,000
+
+Best Poster Award, Australasian Evolution Society Conference, UNSW (2019) - $100
+
+Vice-Chancellor's HDR Travel Grants, Australian National University (2019) - $5,000
+
+Student Plenary Award, British Ecological Society Macroecology Meeting, St Andrews, Scotland (2018) - $500
+
+Graduate Student Research Award, Society of Systematic Biologists (2018) - $2,500
+
 
 **Reviews**
 
-[Publons](https://publons.com/researcher/1565074/alexander-skeels/); Nature Ecology and Evolution, Trends in Ecology and Evolution, Proceedings of the Royal Society B: Biological Sciences, Methods in Ecology and Evolution, Global Ecology and Biogeography, Evolution, Journal of Evolutionary Biology, Journal of Biogeography, Molecular Phylogenetics and Evolution, Biodiversity and Conservation, PLOS One
+[Publons](https://publons.com/researcher/1565074/alexander-skeels/); Nature Ecology and Evolution, Trends in Ecology and Evolution, Ecology Letters, Proceedings of the Royal Society B: Biological Sciences, Methods in Ecology and Evolution, Global Ecology and Biogeography, Evolution, Journal of Evolutionary Biology, Journal of Biogeography, Molecular Phylogenetics and Evolution, Biodiversity and Conservation, PLOS One
 
 **Teaching**
 
-2023: Guest Lecturer, Australian National University.
+2023-2024: Guest Lecturer, Australian National University.
 
 BIOL3206 *Macroevolution and Macroecology*
 
