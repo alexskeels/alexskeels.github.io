@@ -8,7 +8,7 @@ Moroti, M. D. T., **Skeels, A.**, da Silva, F. R., Provete, D. B. 2024.Climate I
 
 Langmore, N. E., Grealy, A. Noh, H.J., Medina, I., **Skeels, A.**, et al. 2024. [Coevolution with hosts underpins speciation in brood-parasitic cuckoos](https://www.science.org/doi/10.1126/science.adj3210). *Science*. 384,1030-1036.
 
-![Superb fairy wren feeding a aparasitic cuckoo on the cover of Science for Langmore et al. (2024)](pictures/Science_Cover.jpg){width=500 fig-align="center"}
+![Superb fairy wren (*Malurus cyaneus*) feeding a aparasitic cuckoo on the cover of Science for Langmore et al. (2024)](pictures/Science_Cover.jpg){width="500" fig-align="center"}
 
 Keggin, T. Waldock, C., **Skeels, A.**, Hagen O., Albouy, C., Manel, S., Pellissier, L. 2023. [Diversity across organisational scale emerges through dispersal ability and speciation dynamics in tropical fish](https://link.springer.com/article/10.1186/s12915-023-01771-3). *BMC Biology*. 21, 282.
 
@@ -24,7 +24,7 @@ Tiatragul, S., **Skeels, A.**, Keogh, J. S. 2023. [Paleoenvironmental models for
 
 Cardillo, M., **Skeels, A.** Dinnage, R. 2023. [Priorities for conserving the world's terrestrial mammals based on over-the-horizon extinction risk](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fvEE3s4AAAAJ&sortby=pubdate&citation_for_view=fvEE3s4AAAAJ:_FxGoFyzp5QC). *Current Biology*. 33 (7), 1381-1388. e6.
 
-![Long-nosed Bandicoot (Perameles nasuta) on the cover of Current Biology (Cardillo, Skeels, Dinnage 2023). Photo from colleague, D. Esquerre.](pictures/Current_Biology_Cover.jpg){width=500 fig-align="center"}
+![Long-nosed Bandicoot (*Perameles nasuta*) on the cover of Current Biology (Cardillo, Skeels, Dinnage 2023). Photo from colleague, D. Esquerre.](pictures/Current_Biology_Cover.jpg){width="500" fig-align="center"}
 
 **Skeels, A.**, Bach, W., Hagen, O., Jetz, W., Pellissier, L. 2023. [Temperature-Dependent Evolutionary Speed Shapes the Evolution of Biodiversity Patterns Across Tetrapod Radiations](https://doi.org/10.1093/sysbio/syac048). *Systematic Biology*. 72 (2), 341-356.
 
@@ -42,7 +42,7 @@ Dinnage, R., **Skeels, A.** & Cardillo, M. 2020. [Spatiophylogenetic modelling o
 
 **Skeels, A.** & Cardillo, M. 2019. [Equilibrium and non‐equilibrium phases in the radiation of hakea and the drivers of diversity in Mediterranean‐type ecosystems](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13769). *Evolution*. 73 (7) 1392-1410.
 
-![Hakea on the cover of Evolution, photo taken by me at the Australian National Botanical Gardens in Canebrra](pictures/Evolution_Cover.png){width=500 fig-align="center"}
+![*Hakea recurva*, a Southwest Australian endemic, on the cover of Evolution. Photo taken by me at the Australian National Botanical Gardens in Canberra](pictures/Evolution_Cover.png){width="500" fig-align="center"}
 
 **Skeels, A.** & Cardillo, M. 2019. [Reconstructing the Geography of Speciation from Contemporary Biodiversity Data](https://www.journals.uchicago.edu/doi/abs/10.1086/701125). *American Naturalist*. 193 (2), 240-255.
 
@@ -56,7 +56,7 @@ O. El‐Deeb\*, **Skeels, A.**\*, & Brennan, I. 2020. [Digest: The evolutionary 
 
 **Skeels, A.** 2019. [Lineages through space and time plots: visualising spatial and temporal changes in diversity](https://escholarship.org/uc/item/1521z9pb). Frontiers of Biogeography. 11 (2), e42954.
 
-#### General audience / Explainers
+#### General audience / explainers
 
 Skeels, A. 2023. [Why are there hopping mice in Australia but no kangaroos in Asia? It's a long story](https://theconversation.com/why-are-there-hopping-mice-in-australia-but-no-kangaroos-in-asia-its-a-long-story-209067). The Conversation.
 

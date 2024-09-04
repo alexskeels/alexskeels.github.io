@@ -4,14 +4,14 @@ title: "Alex Skeels"
 
 Hi, I'm a biodiversity scientist and evolutionary biologist currently working as a postdoc in the [Macroevolution and Macroecology Group](http://www.macroevoeco.com/) at the [Australian National University](https://biology.anu.edu.au/research/divisions/ecology-and-evolution) (ANU). I'll be beginning an ARC DECRA Fellowship in 2025 looking at how environmental changes shapes the origin and decline of biodiversity across the Asia-Pacific region.
 
-I'm interested in exploring biodiversity patterns and the evolutionary histories of the plant and animal groups that contribute to them. You can find an example of some of my most recent research [here](https://www.science.org/stoken/author-tokens/ST-1301/full). One of my main interests is the origins of *biodiversity hotspots*, such as those found in tropical rainforests, mountain ranges, or Mediterranean-type ecosystems. I am also interested in understanding how these regions, and the organisms within them, are vulnerable to global change. To explore these topics, I analyse spatial, phylogenetic, and ecological-trait data with *simulation modelling* and *comparative* *analyses*.
+I'm interested in exploring biodiversity patterns and the evolutionary histories of the plant and animal groups that contribute to them. You can find an example of some of my most recent research [here](https://www.science.org/stoken/author-tokens/ST-1301/full). One of my main interests is the origins of *biodiversity hotspots*, such as those found in tropical rainforests, mountain ranges, or Mediterranean-type ecosystems. I am also interested in understanding how these regions, and the organisms within them, are vulnerable to global change. To explore these topics, I analyse spatial, phylogenetic, and ecological-trait data with *simulation modelling* and *phylogenetic* *comparative* *analyses*.
 
 ### Biogeography
 
 
 ### Diversification Modelling
 
-I use and develop simulation-based approach to modelling the diversification of lineages.
+I use and develop simulation-based approach to modelling the diversification of lineages linking a complex array of ecological and evolutionary processes.
 ![](pictures/simulation_model.png)
 ### Phylogenetics
 
