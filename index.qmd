@@ -12,13 +12,13 @@ I'm interested in exploring biodiversity patterns and the evolutionary histories
 
 The Indo-Australian region is one of the most geologically and biologically complex areas on the planet. This region is defined by its insularity and the thousands of islands that exist bewteen the Sunda continental shelf and the Australian mainland. The region has been shaped by historical isolation of the Indian subcontinent and Sahul and dramatic biotic interchanges upon their more recent connections with Eurasia. I am deeply interested in understanding how these dynamic tectonic processes, alongside climatic change during teh Cenozoic, have shaped the interchange of organisms in this region, shaping the diversity of different biomes from the equatorial rainforests of Borneo and Sumatra, to the monsoonal tropics of Northern Australia, and the central Australian arid zone.
 
-![](pictures/sundasahul.png){width=300}
+![](pictures/sundasahul.png){width=600}
 
 #### Biodiversity Simulation Modelling
 
 Simulation-based approaches to modelling the diversification of lineages allows us to link a complex array of ecological and evolutionary processes. I have been involved in developing new simulation tools (e.g., DREaD) and extending existing simulation frameworks to model novel processes (e.g., Gen3sis) in order to understand how fundamental processes such as environmental niche evolution and dispersal shape emergent biodiversity gradients. My upcoming DECRA aims at extending this toolkit for biogeographers and evolutionary biologists.
 
-![](pictures/simulation_model.png){width=300} 
+![](pictures/simulation_model.png){width=600} 
 
 #### Phylogenetics and Evolutionary History of the Proteaceae
 
