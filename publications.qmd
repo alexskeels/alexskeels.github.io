@@ -4,7 +4,11 @@ title: "Publications"
 
 #### Journal articles
 
-Moroti, M. D. T., **Skeels, A.**, da Silva, F. R., Provete, D. B. 2024.Climate Interacts With Diversification Rate in Determining Species Richness and Trait Diversity of Tetrapods in a Global Hotspot. *Journal of Biogeography*.
+**Skeels, A.**, Sauquet, H., Mast, A., Weston, P. H., Olde, P. M., Reynolds, Z. K. M., Fenker, J., Lemmon, A. R., Moriarty Lemmon, E., Cardillo, M. Sources of gene tree discordance and their implications for systematics and evolution of a megadiverse Australian plant radiation (subtribe Hakeinae, Proteaceae). *Bulletin of the Society of Systematic Biologists*, accepted.
+
+Tiatragul, S., **Skeels, A.**, Keogh, J. S. 2024. Morphological evolution and niche conservatism across a continental radiation of Australian blindsnakes. *Evolution*, accepted.
+
+Moroti, M. D. T., **Skeels, A.**, da Silva, F. R., Provete, D. B. 2024.Climate Interacts With Diversification Rate in Determining Species Richness and Trait Diversity of Tetrapods in a Global Hotspot. *Journal of Biogeography*, accepted.
 
 Langmore, N. E., Grealy, A. Noh, H.J., Medina, I., **Skeels, A.**, et al. 2024. [Coevolution with hosts underpins speciation in brood-parasitic cuckoos](https://www.science.org/doi/10.1126/science.adj3210). *Science*. 384,1030-1036.
 
