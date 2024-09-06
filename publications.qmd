@@ -1,8 +1,16 @@
 ---
 title: "Publications"
+format: html
+engine: knitr
 ---
 
-#### Journal articles
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+::: {.justify}
+#### Journal articles {.centrehead}
 
 **Skeels, A.**, Sauquet, H., Mast, A., Weston, P. H., Olde, P. M., Reynolds, Z. K. M., Fenker, J., Lemmon, A. R., Moriarty Lemmon, E., Cardillo, M. Sources of gene tree discordance and their implications for systematics and evolution of a megadiverse Australian plant radiation (subtribe Hakeinae, Proteaceae). *Bulletin of the Society of Systematic Biologists*, accepted.
 
@@ -54,13 +62,13 @@ Dinnage, R., **Skeels, A.** & Cardillo, M. 2020. [Spatiophylogenetic modelling o
 
 Cardillo, M. & **Skeels A.** 2016. [Spatial, phylogenetic, environmental and biological components of variation in extinction risk: a case study using Banksia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0154431). *PLoS One*. 11(5) e0154431.
 
-#### Software, notes, and commentaries
+#### Software, notes, and commentaries  {.centrehead}
 
 O. El‐Deeb\*, **Skeels, A.**\*, & Brennan, I. 2020. [Digest: The evolutionary relationship between environment and size in Australian rodents](https://alexskeels.com/publications/void(0)). Evolution. [doi.org/10.1111/evo.13909](https://doi.org/10.1111/evo.13909). \*equal contribution
 
 **Skeels, A.** 2019. [Lineages through space and time plots: visualising spatial and temporal changes in diversity](https://escholarship.org/uc/item/1521z9pb). Frontiers of Biogeography. 11 (2), e42954.
 
-#### General audience / explainers
+#### General audience / explainers {.centrehead}
 
 Skeels, A. 2023. [Why are there hopping mice in Australia but no kangaroos in Asia? It's a long story](https://theconversation.com/why-are-there-hopping-mice-in-australia-but-no-kangaroos-in-asia-its-a-long-story-209067). The Conversation.
 
@@ -69,3 +77,4 @@ ANU media. 2023. [Here's why you won't find kangaroos outside of Australia](http
 Skeels, A. 2021. [Competition drives flower colour evolution in a biodiversity hotspot](https://alexskeels.com/?page_id=252). Explainer in *Evolution Letters*.
 
 ANU media. 2021. [New research could help save species from extinction](https://www.anu.edu.au/news/all-news/new-research-could-help-save-species-from-extinction). ANU media release.
+:::

@@ -1,21 +1,30 @@
 ---
 title: "Resources"
+format: html
+engine: knitr
 ---
 
-### Workshop Materials
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+::: {.justify}
+### Workshop Materials {style="text-align: center;"}
 
-[Center for Biodiversity Analysis: Gen3sis Workshop 2024](https://alexskeels.github.io/CBAGen3sis)
+[Center for Biodiversity Analysis: Gen3sis Workshop 2024](https://alexskeels.github.io/CBAGen3sis) 
 
-![Flier for the workshop](pictures/gen3sis.jpg){width="500"}
+![](pictures/gen3sis.jpg){width="500" fig-align="center"}
 
-### R Tools
+### R Tools  {style="text-align: center;"}
 
--   Dynamic Range Evolution And Diversification model ([DReAD](https://github.com/alexskeels/DynamicRangeEvolutionAndDiversification)): a package for biodiversity simulation
+[DReAD: a package for biodiversity simulation](https://github.com/alexskeels/DynamicRangeEvolutionAndDiversification) 
 
-![](pictures/DREAD.png){width="300"}
+![](pictures/DREAD.webp){width="300" fig-align="center"}
 
--   Lineages Through Space and Time in R ([ltstR](https://github.com/alexskeels/ltstR)): a package to visualize spatial and temporal changes in diversity
+[ltstR: : a package to visualize spatial and temporal changes in diversity](https://github.com/alexskeels/ltstR)
 
-![](pictures/ltstr.PNG){width="300"}
+![](pictures/ltstr.PNG){width="300" fig-align="center"}
 
--   [waRhol](https://github.com/alexskeels/waRhol): a colour palette for R based on the art of Andy Warhol
+[waRhol: a colour palette for R based on the art of Andy Warhol](https://github.com/alexskeels/waRhol) 
+:::

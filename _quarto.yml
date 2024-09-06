@@ -7,6 +7,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - research.qmd
       - publications.qmd
       - cv.qmd
       - software.qmd
@@ -17,6 +18,10 @@ format:
     theme: journal
     css: styles.css
     toc: true
-
+    grid:
+      sidebar-width: 300px
+      body-width: 900px
+      margin-width: 300px
+      gutter-width: 1.5rem
 editor: visual
 
