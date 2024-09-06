@@ -3,6 +3,7 @@ title: "Current Research"
 format: html
 engine: knitr
 ---
+
 ---
 geometry:
   - showframe
@@ -15,32 +16,27 @@ geometry:
 ```
 
 ::: justify
-
 ### Indo-Australian Biogeography {.centrehead}
- 
+
 <br />
 
 ![](pictures/sundasahul.png){width="400" fig-align="center"}
-The Indo-Australian region is one of the most geologically and biologically complex areas on the planet and is shaped by the historical isolation of the Indian subcontinent and Sahul and dramatic biotic interchanges upon their more recent connections with Eurasia. I am deeply interested in understanding how these dynamic tectonic processes, alongside climatic change during the Cenozoic, have shaped the interchange of organisms in this region, shaping the diversity of different biomes from the equatorial rainforests of Borneo to the Australian arid zone.
+
+<br /> The Indo-Australian region is one of the most geologically and biologically complex areas on the planet and is shaped by the historical isolation of the Indian subcontinent and Sahul and dramatic biotic interchanges upon their more recent connections with Eurasia. I am deeply interested in understanding how these dynamic tectonic processes, alongside climatic change during the Cenozoic, have shaped the interchange of organisms in this region, shaping the diversity of different biomes from the equatorial rainforests of Borneo to the Australian arid zone.
 
 ### Biodiversity Simulation Modelling {.centrehead}
+
 <br />
 
-Simulation models allow us to experimentally manipulate the processes which shape the diversification of lineages. They importantly allow us to link a complex array of ecological and evolutionary processes that are otehrwise intractable to otehr classes of model. 
-<br /> 
-<br /> 
-I have been involved in developing new simulation tools (e.g., DREaD) and extending existing simulation frameworks to model novel processes (e.g., Gen3sis) in order to understand how fundamental processes such as the geographic mode of speciation, environmental niche evolution, and dispersal ability shape emergent biodiversity gradients. 
-<br /> 
-<br /> 
-My upcoming DECRA aims at extending this toolkit for biogeographers and evolutionary biologists - stay tuned!
+Simulation models allow us to experimentally manipulate the processes which shape the diversification of lineages. They importantly allow us to link a complex array of ecological and evolutionary processes that are otehrwise intractable to otehr classes of model. <br /> <br /> I have been involved in developing new simulation tools (e.g., DREaD) and extending existing simulation frameworks to model novel processes (e.g., Gen3sis) in order to understand how fundamental processes such as the geographic mode of speciation, environmental niche evolution, and dispersal ability shape emergent biodiversity gradients. <br /> <br /> My upcoming DECRA aims at extending this toolkit for biogeographers and evolutionary biologists - stay tuned!
 
 ![](pictures/simulation_model.webp){fig-align="center"}
 
 ### Phylogenetics and Evolutionary History of the Proteaceae {.centrehead}
+
 <br />
 
 ![](pictures/phylogeny.jpg){width="400" fig-align="center"}
 
-The Proteaceae are an iconic element of the Australian flora and they are widespread across the former Gondwanan southern continents and even into parts of tropical Asia. As part of my current ARC funded postdoc I have been inferring phylogenetic relationships in the large, mostly Australian subfamily, the Grevilleoideae. <br /><br />  Using phylogenomic data, we aiming to untangling the causes of widespread discordance throughout the group and date divergences using a novel fossil dataset, in order to look at the groups biogeographic and diversification history in the context of historical biome change.
-
+The Proteaceae are an iconic element of the Australian flora and they are widespread across the former Gondwanan southern continents and even into parts of tropical Asia. As part of my current ARC funded postdoc I have been inferring phylogenetic relationships in the large, mostly Australian subfamily, the Grevilleoideae. <br /><br /> Using phylogenomic data, we aiming to untangling the causes of widespread discordance throughout the group and date divergences using a novel fossil dataset, in order to look at the groups biogeographic and diversification history in the context of historical biome change.
 :::
