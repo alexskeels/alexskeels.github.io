@@ -1,5 +1,5 @@
 ---
-title: "Alex Skeels - biodiversity change across space and time"
+title: "Biodiversity change across space and time"
 format: html
 engine: knitr
 title-block-banner: pictures/tassy2.jpg
