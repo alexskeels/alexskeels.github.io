@@ -10,7 +10,7 @@ engine: knitr
 }
 ```
 ::: {.justify}
-#### Journal articles {.centrehead}
+### Journal articles {.centrehead}
 
 **Skeels, A.**, Sauquet, H., Mast, A., Weston, P. H., Olde, P. M., Reynolds, Z. K. M., Fenker, J., Lemmon, A. R., Moriarty Lemmon, E., Cardillo, M. Sources of gene tree discordance and their implications for systematics and evolution of a megadiverse Australian plant radiation (subtribe Hakeinae, Proteaceae). *Bulletin of the Society of Systematic Biologists*, accepted.
 
@@ -68,7 +68,7 @@ O. El‐Deeb\*, **Skeels, A.**\*, & Brennan, I. 2020. [Digest: The evolutionary 
 
 **Skeels, A.** 2019. [Lineages through space and time plots: visualising spatial and temporal changes in diversity](https://escholarship.org/uc/item/1521z9pb). Frontiers of Biogeography. 11 (2), e42954.
 
-#### General audience / explainers {.centrehead}
+### General audience / explainers {.centrehead}
 
 Skeels, A. 2023. [Why are there hopping mice in Australia but no kangaroos in Asia? It's a long story](https://theconversation.com/why-are-there-hopping-mice-in-australia-but-no-kangaroos-in-asia-its-a-long-story-209067). The Conversation.
 
