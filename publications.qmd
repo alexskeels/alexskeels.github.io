@@ -9,14 +9,15 @@ engine: knitr
   text-align: justify !important
 }
 ```
-::: {.justify}
+
+::: justify
 ### Journal articles {.centrehead}
 
 **Skeels, A.**, Sauquet, H., Mast, A., Weston, P. H., Olde, P. M., Reynolds, Z. K. M., Fenker, J., Lemmon, A. R., Moriarty Lemmon, E., Cardillo, M. Sources of gene tree discordance and their implications for systematics and evolution of a megadiverse Australian plant radiation (subtribe Hakeinae, Proteaceae). *Bulletin of the Society of Systematic Biologists*, accepted.
 
-Tiatragul, S., **Skeels, A.**, Keogh, J. S. 2024. Morphological evolution and niche conservatism across a continental radiation of Australian blindsnakes. *Evolution*, accepted.
+Tiatragul, S., **Skeels, A.**, Keogh, J. S. 2024. [Morphological evolution and niche conservatism across a continental radiation of Australian blindsnakes](https://doi-org.virtual.anu.edu.au/10.1093/evolut/qpae132). *Evolution*, qpae132
 
-Moroti, M. D. T., **Skeels, A.**, da Silva, F. R., Provete, D. B. 2024.Climate Interacts With Diversification Rate in Determining Species Richness and Trait Diversity of Tetrapods in a Global Hotspot. *Journal of Biogeography*, accepted.
+Moroti, M. D. T., **Skeels, A.**, da Silva, F. R., Provete, D. B. 2024. [Climate Interacts With Diversification Rate in Determining Species Richness and Trait Diversity of Tetrapods in a Global Hotspot](https://onlinelibrary.wiley.com/doi/10.1111/jbi.15001#). *Journal of Biogeography*, https://doi.org/10.1111/jbi.15001.
 
 Langmore, N. E., Grealy, A. Noh, H.J., Medina, I., **Skeels, A.**, et al. 2024. [Coevolution with hosts underpins speciation in brood-parasitic cuckoos](https://www.science.org/doi/10.1126/science.adj3210). *Science*. 384,1030-1036.
 
@@ -62,7 +63,7 @@ Dinnage, R., **Skeels, A.** & Cardillo, M. 2020. [Spatiophylogenetic modelling o
 
 Cardillo, M. & **Skeels A.** 2016. [Spatial, phylogenetic, environmental and biological components of variation in extinction risk: a case study using Banksia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0154431). *PLoS One*. 11(5) e0154431.
 
-#### Software, notes, and commentaries  {.centrehead}
+#### Software, notes, and commentaries {.centrehead}
 
 O. El‐Deeb\*, **Skeels, A.**\*, & Brennan, I. 2020. [Digest: The evolutionary relationship between environment and size in Australian rodents](https://alexskeels.com/publications/void(0)). Evolution. [doi.org/10.1111/evo.13909](https://doi.org/10.1111/evo.13909). \*equal contribution
 
