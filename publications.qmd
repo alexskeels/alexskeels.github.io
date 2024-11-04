@@ -17,6 +17,8 @@ engine: knitr
 
 Tiatragul, S., **Skeels, A.**, Keogh, J. S. 2024. [Morphological evolution and niche conservatism across a continental radiation of Australian blindsnakes](https://doi-org.virtual.anu.edu.au/10.1093/evolut/qpae132). *Evolution*, qpae132
 
+![Kimberley shallow-soil blind snake (*Anilios kimberleyensis*) on the cover of Evolution for Tiatragul et al. (2024). Photo: Stephen Zozaya](pictures/Evolution_Cover2.jpg){width="500" fig-align="center"}
+
 Moroti, M. D. T., **Skeels, A.**, da Silva, F. R., Provete, D. B. 2024. [Climate Interacts With Diversification Rate in Determining Species Richness and Trait Diversity of Tetrapods in a Global Hotspot](https://onlinelibrary.wiley.com/doi/10.1111/jbi.15001#). *Journal of Biogeography*, https://doi.org/10.1111/jbi.15001.
 
 Langmore, N. E., Grealy, A. Noh, H.J., Medina, I., **Skeels, A.**, et al. 2024. [Coevolution with hosts underpins speciation in brood-parasitic cuckoos](https://www.science.org/doi/10.1126/science.adj3210). *Science*. 384,1030-1036.
