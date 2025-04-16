@@ -28,16 +28,15 @@ geometry:
 
 <br />
 
-![](pictures/simulation_model.webp){fig-align="center"}
+![](pictures/Figure_2_.jpg){width="400" fig-align="center"}
 
-Simulation models allow us to experimentally manipulate the processes which shape the diversification of lineages. They importantly allow us to link a complex array of ecological and evolutionary processes that are otherwise intractable to other classes of model. <br /> <br /> I have been involved in developing new simulation tools (e.g., DREaD) and extending existing simulation frameworks to model novel processes (e.g., Gen3sis) in order to understand how fundamental processes such as the geographic mode of speciation, environmental niche evolution, and dispersal ability shape emergent biodiversity gradients. <br /> <br /> My upcoming DECRA aims at extending this toolkit for biogeographers and evolutionary biologists - stay tuned!
-
+Simulation models allow us to experimentally manipulate the processes which shape diversification of lineages. They importantly allow us to link a complex array of ecological and evolutionary processes that are otherwise intractable to other classes of model. <br /> <br /> I have been involved in developing new simulation tools (e.g., DREaD) and extending existing simulation frameworks to model novel processes (e.g., Gen3sis) in order to understand how fundamental processes such as the geographic mode of speciation, environmental niche evolution, and dispersal ability shape emergent biodiversity gradients. <br /> <br /> My upcoming DECRA aims at extending this toolkit for biogeographers and evolutionary biologists - stay tuned!
 
 ### Phylogenetics and Evolutionary History of the Proteaceae {.centrehead}
 
 <br />
 
-![](pictures/phylogeny.jpg){width="400" fig-align="center"}
+![](pictures/phylogeny_.jpg){width="400" fig-align="center"}
 
-The Proteaceae are an iconic element of the Australian flora and they are widespread across the former Gondwanan southern continents and even into parts of tropical Asia. As part of my current ARC funded postdoc I have been inferring phylogenetic relationships in the large, mostly Australian subfamily, the Grevilleoideae. <br /><br /> Using phylogenomic data, we aiming to untangling the causes of widespread discordance throughout the group and date divergences using a novel fossil dataset, in order to look at the groups biogeographic and diversification history in the context of historical biome change.
+The Proteaceae are an iconic element of the Australian flora and they are widespread across the former Gondwanan southern continents and even into parts of tropical Asia. As part of my current postdoc I have been inferring phylogenetic relationships in the large, globally distributed subfamily, Grevilleoideae. <br /><br /> Using phylogenomic data, we aim to untangle the causes of widespread discordance throughout the group and date divergences using a novel fossil dataset, in order to look at the groups biogeographic and diversification history in the context of historical biome change.
 :::

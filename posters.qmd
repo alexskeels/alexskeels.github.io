@@ -9,7 +9,8 @@ engine: knitr
   text-align: justify !important
 }
 ```
-::: {.justify}
+
+::: justify
 ![3rd Joint Congress of Evolutionary Biology 2024 - Montreal, Canada](posters/EVOL_2024.jpg){fig-align="center"}
 
 ![WSL Social Science Day - Birmensdorf, Swizterland](posters/WSL_2021.png){fig-align="center"}

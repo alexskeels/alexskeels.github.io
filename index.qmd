@@ -18,13 +18,13 @@ include-in-header:
   text-align: justify !important
 }
 ```
-  
+
 ::: justify
-Hi, I'm a biodiversity scientist and evolutionary biologist currently working as a postdoc in the [Macroevolution and Macroecology Group](http://www.macroevoeco.com/) at the [Australian National University](https://biology.anu.edu.au/research/divisions/ecology-and-evolution) (ANU). I'll be beginning an ARC DECRA Fellowship in 2025 looking at how environmental changes shapes the origin and decline of biodiversity across the Asia-Pacific region.
+Hi, I'm a biodiversity scientist and evolutionary biologist currently working as a postdoc in the [Macroevolution and Macroecology Group](http://www.macroevoeco.com/) at the [Australian National University](https://biology.anu.edu.au/research/divisions/ecology-and-evolution) (ANU). I begin my ARC DECRA Fellowship in May 2025 looking at how environmental changes shapes the origin and decline of biodiversity across the Asia-Pacific region.
 
-![](pictures/me2.jpg){width="500" fig-align="center"} 
+![](pictures/me2.jpg){width="500" fig-align="center"}
 
-I focus on exploring biodiversity patterns and the evolutionary histories of the plant and animal groups that shape them. For an example of my recent research, you can check out this [link](https://www.science.org/stoken/author-tokens/ST-1301/full). My primary interest lies in the origins of biodiversity hotspots, such as those in **[tropical rainforests]{style="color:green;"}** , **[mountain ranges]{style="color:purple;"}**, and **[Mediterranean-type ecosystems]{style="color:orange;"}**. I also investigate how these regions and their organisms are affected by global change. To address these topics, I use spatial, phylogenetic, and ecological-trait data combined with **simulation modeling** and **phylogenetic comparative analyses**.
+My research explores biodiversity patterns and the evolutionary histories of the myriad plant and animal groups that shape them. I'm interested in why some areas, like tropical rainforests, consistently host high biodiversity. But I'm equally drawn to regions that challenge expectations about how biodiversity is formed, for example, the unexpectedly high diversity of reptiles in Australia's arid zone, or the remarkable richness of endemic plant species in Mediterranean-type climates around the globe. To investigate these topics, I integrate spatial, phylogenetic, and ecological-trait data combined with **simulation modeling** and **phylogenetic comparative methods**, while also considering how global change in the past, present, and future is reshaping these systems
 
-![](pictures/me3.jpg){width="300" fig-align="center"}
+![](pictures/Banksia.jpg){width="300" fig-align="center"}
 :::
