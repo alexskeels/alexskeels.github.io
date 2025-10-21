@@ -20,7 +20,7 @@ include-in-header:
 ```
 
 ::: justify
-Hi, I'm an ARC DECRA Fellow in the [Macroevolution and Macroecology Group](http://www.macroevoeco.com/) at the [Australian National University](https://biology.anu.edu.au/research/divisions/ecology-and-evolution). I research how environmental change shapes the origin and decline of biodiversity across the Asia-Pacific region.
+Hi, I'm an ARC DECRA Fellow in the [Macroevolution and Macroecology Group](http://www.macroevoeco.com/) at the [Australian National University](https://biology.anu.edu.au/research/divisions/ecology-and-evolution), exploring how environmental change shapes the origin and decline of biodiversity across the Asia-Pacific region.
 
 ![](pictures/me2.jpg){width="500" fig-align="center"}
 
