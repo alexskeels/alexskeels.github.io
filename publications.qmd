@@ -15,7 +15,11 @@ engine: knitr
 
 #### 2025 {.center}
 
-Nge, F. J., **Skeels, A.** 2025. [Diversification patterns of the southwest Australian biodiversity hotspot reveal a novel macroevolutionary pathway to plant hyperdiversity](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70330). *New Phytologist*
+Lorcery, M., Husson, L., Salles, T., Lavergne, S., Hagen, O. and **Skeels, A.**, 2025. [Deep time evolution of the Latitudinal Diversity Gradient: Insights from mechanistic models](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332766). *PLoS One*, *20*(9), p.e0332766.
+
+**Skeels, A**., Sauquet, H., Mast, A., Weston, P.H., Olde, P.M., Jordan, G.J., Carpenter, R.J., Fenker, J., Reynolds, Z.K., Lemmon, A.R. and Lemmon, E.M., 2025. [Paleobiome dynamics shaped a large Gondwanan plant radiation](https://www.pnas.org/doi/abs/10.1073/pnas.2502129122). *Proceedings of the National Academy of Sciences*, *122*(29), p.e2502129122.
+
+Nge, F. J., **Skeels, A.** 2025. [Diversification patterns of the southwest Australian biodiversity hotspot reveal a novel macroevolutionary pathway to plant hyperdiversity](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70330). *New Phytologist.* 248: 953-967.
 
 Yuan, Z., Yang, G., Ding, W., Brun, P., **Skeels, A.**, Pellissier, L., Zimmermann, N.E. 2025. [The geography of connectivity shapes plant endemism hotspots.](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1002/ecog.07514) *Ecography. e07514*
 

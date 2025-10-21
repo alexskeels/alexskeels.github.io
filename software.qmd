@@ -9,16 +9,17 @@ engine: knitr
   text-align: justify !important
 }
 ```
-::: {.justify}
+
+::: justify
 ### Workshop Materials {style="text-align: center;"}
 
-[Center for Biodiversity Analysis: Gen3sis Workshop 2024](https://alexskeels.github.io/CBAGen3sis) 
+[Center for Biodiversity Analysis: Gen3sis Workshop 2024](https://alexskeels.github.io/CBAGen3sis)
 
 ![](pictures/gen3sis.jpg){width="500" fig-align="center"}
 
-### R Tools  {style="text-align: center;"}
+### R Tools {style="text-align: center;"}
 
-[DReAD: a package for biodiversity simulation](https://github.com/alexskeels/DynamicRangeEvolutionAndDiversification) 
+[DReAD: a package for biodiversity simulation](https://github.com/alexskeels/DynamicRangeEvolutionAndDiversification)
 
 ![](pictures/DREAD.webp){width="300" fig-align="center"}
 
@@ -26,5 +27,5 @@ engine: knitr
 
 ![](pictures/ltstr.PNG){width="300" fig-align="center"}
 
-[waRhol: a colour palette for R based on the art of Andy Warhol](https://github.com/alexskeels/waRhol) 
+[waRhol: a colour palette for R based on the art of Andy Warhol](https://github.com/alexskeels/waRhol)
 :::
