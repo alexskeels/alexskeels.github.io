@@ -13,6 +13,10 @@ engine: knitr
 ::: justify
 ### Journal articles {.centrehead}
 
+#### 2026 {.center}
+
+Ding, W., Ree, R., May, M., Brun, P., Hagen, O., Karger, D., **Skeels, A.**, Pellissier, L., Xing, Y. & Zimmerman, N. (2026). The asynchronous rise of Northern Hemisphere alpine floras reveals general responses of biotic assembly to orogeny and climate change. *Science Advances*. In press.
+
 #### 2025 {.center}
 
 Lorcery, M., Husson, L., Salles, T., Lavergne, S., Hagen, O. and **Skeels, A.**, 2025. [Deep time evolution of the Latitudinal Diversity Gradient: Insights from mechanistic models](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332766). *PLoS One*, *20*(9), p.e0332766.
@@ -81,15 +85,19 @@ Dinnage, R., **Skeels, A.** & Cardillo, M. 2020. [Spatiophylogenetic modelling o
 
 **Skeels, A.** & Cardillo, M. 2019. [Reconstructing the Geography of Speciation from Contemporary Biodiversity Data](https://www.journals.uchicago.edu/doi/abs/10.1086/701125). *American Naturalist*. 193 (2), 240-255.
 
+**Skeels, A.** 2019. [Lineages through space and time plots: visualising spatial and temporal changes in diversity](https://doi.org/10.21425/F5FBG42954). *Frontiers of Biogeography*. 11 (2), e42954.
+
 **Skeels, A.** & Cardillo, M. 2017. [Environmental niche conservatism explains the accumulation of species richness in Mediterranean‐hotspot plant genera](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13179). *Evolution*. 71 (3), 582-594.
 
 Cardillo, M. & **Skeels A.** 2016. [Spatial, phylogenetic, environmental and biological components of variation in extinction risk: a case study using Banksia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0154431). *PLoS One*. 11(5) e0154431.
 
-#### Software, notes, and commentaries {.centrehead}
+#### Book Chapters
+
+Esquerré, D., **Skeels, A.** (2026). [Biogeographic Patterns of Richness and Endemism in Liolaemidae: Identifying Hotspots for the Most Diverse Andean Reptile Radiation](https://doi.org/10.1007/978-3-032-00074-3_5). In: Urbina-Cardona, J.N., Navas, C.A., Catenazzi, A., Piantoni, C. (eds) *Andean Herpetofauna*. Sustainable Development Goals Series. Springer, Cham.
+
+#### Notes, and commentaries {.centrehead}
 
 O. El‐Deeb\*, **Skeels, A.**\*, & Brennan, I. 2020. [Digest: The evolutionary relationship between environment and size in Australian rodents](https://alexskeels.com/publications/void(0)). Evolution. [doi.org/10.1111/evo.13909](https://doi.org/10.1111/evo.13909). \*equal contribution
-
-**Skeels, A.** 2019. [Lineages through space and time plots: visualising spatial and temporal changes in diversity](https://escholarship.org/uc/item/1521z9pb). Frontiers of Biogeography. 11 (2), e42954.
 
 ### General audience / explainers {.centrehead}
 
