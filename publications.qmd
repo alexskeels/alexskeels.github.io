@@ -4,108 +4,104 @@ format: html
 engine: knitr
 ---
 
-```{css, echo = FALSE}
-.justify {
-  text-align: justify !important
-}
-```
-
 ::: justify
 ### Journal articles {.centrehead}
 
 #### 2026 {.center}
 
-Ding, W., Ree, R., May, M., Brun, P., Hagen, O., Karger, D., **Skeels, A.**, Pellissier, L., Xing, Y. & Zimmerman, N. (2026). The asynchronous rise of Northern Hemisphere alpine floras reveals general responses of biotic assembly to orogeny and climate change. *Science Advances*. In press.
+Ding, W., Ree, R., May, M., Brun, P., Hagen, O., Karger, D., **Skeels, A.**, Pellissier, L., Xing, Y. & Zimmerman, N. (2026). The asynchronous rise of Northern Hemisphere alpine floras reveals general responses of biotic assembly to orogeny and climate change. *Science Advances*. In press.
 
 #### 2025 {.center}
 
-Lorcery, M., Husson, L., Salles, T., Lavergne, S., Hagen, O. and **Skeels, A.**, 2025. [Deep time evolution of the Latitudinal Diversity Gradient: Insights from mechanistic models](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332766). *PLoS One*, *20*(9), p.e0332766.
+Lorcery, M., Husson, L., Salles, T., Lavergne, S., Hagen, O. & **Skeels, A.** 2025. [Deep time evolution of the Latitudinal Diversity Gradient: Insights from mechanistic models](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332766). *PLoS One*, 20(9), e0332766.
 
-**Skeels, A**., Sauquet, H., Mast, A., Weston, P.H., Olde, P.M., Jordan, G.J., Carpenter, R.J., Fenker, J., Reynolds, Z.K., Lemmon, A.R. and Lemmon, E.M., 2025. [Paleobiome dynamics shaped a large Gondwanan plant radiation](https://www.pnas.org/doi/abs/10.1073/pnas.2502129122). *Proceedings of the National Academy of Sciences*, *122*(29), p.e2502129122.
+**Skeels, A.**, Sauquet, H., Mast, A., Weston, P. H., Olde, P. M., Jordan, G. J., Carpenter, R. J., Fenker, J., Reynolds, Z. K., Lemmon, A. R. & Lemmon, E. M. 2025. [Paleobiome dynamics shaped a large Gondwanan plant radiation](https://www.pnas.org/doi/abs/10.1073/pnas.2502129122). *Proceedings of the National Academy of Sciences*, 122(29), e2502129122.
 
-Nge, F. J., **Skeels, A.** 2025. [Diversification patterns of the southwest Australian biodiversity hotspot reveal a novel macroevolutionary pathway to plant hyperdiversity](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70330). *New Phytologist.* 248: 953-967.
+Nge, F. J. & **Skeels, A.** 2025. [Diversification patterns of the southwest Australian biodiversity hotspot reveal a novel macroevolutionary pathway to plant hyperdiversity](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70330). *New Phytologist*, 248, 953--967.
 
-Yuan, Z., Yang, G., Ding, W., Brun, P., **Skeels, A.**, Pellissier, L., Zimmermann, N.E. 2025. [The geography of connectivity shapes plant endemism hotspots.](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1002/ecog.07514) *Ecography. e07514*
+Yuan, Z., Yang, G., Ding, W., Brun, P., **Skeels, A.**, Pellissier, L. & Zimmermann, N. E. 2025. [The geography of connectivity shapes plant endemism hotspots](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1002/ecog.07514). *Ecography*, e07514.
 
 #### 2024 {.center}
 
-**Skeels, A.**, Sauquet, H., Mast, A., Weston, P. H., Olde, P. M., Reynolds, Z. K. M., Fenker, J., Lemmon, A. R., Moriarty Lemmon, E., Cardillo, M. 2024. [Sources of gene tree discordance and their implications for systematics and evolution of a megadiverse Australian plant radiation (subtribe Hakeinae, Proteaceae).](https://ssbbulletin.org/index.php/bssb/article/view/9823) *Bulletin of the Society of Systematic Biologists*, 3 (2)
+**Skeels, A.**, Sauquet, H., Mast, A., Weston, P. H., Olde, P. M., Reynolds, Z. K. M., Fenker, J., Lemmon, A. R., Moriarty Lemmon, E. & Cardillo, M. 2024. [Sources of gene tree discordance and their implications for systematics and evolution of a megadiverse Australian plant radiation (subtribe Hakeinae, Proteaceae)](https://ssbbulletin.org/index.php/bssb/article/view/9823). *Bulletin of the Society of Systematic Biologists*, 3(2).
 
-Tiatragul, S., **Skeels, A.**, Keogh, J. S. 2024. [Morphological evolution and niche conservatism across a continental radiation of Australian blindsnakes](https://doi-org.virtual.anu.edu.au/10.1093/evolut/qpae132). *Evolution*, 78 (11), 1854-1868.
+Tiatragul, S., **Skeels, A.** & Keogh, J. S. 2024. [Morphological evolution and niche conservatism across a continental radiation of Australian blindsnakes](https://doi.org/10.1093/evolut/qpae132). *Evolution*, 78(11), 1854--1868.
 
-![Kimberley shallow-soil blind snake (*Anilios kimberleyensis*) on the cover of Evolution for Tiatragul et al. (2024). Photo: Stephen Zozaya](pictures/Evolution_Cover2.jpg){width="500" fig-align="center"}
+![Kimberley shallow-soil blind snake (*Anilios kimberleyensis*) on the cover of Evolution for Tiatragul et al. (2024). Photo: Stephen Zozaya](pictures/Evolution_cover2.jpg){width="500" fig-align="center"}
 
-Moroti, M. D. T., **Skeels, A.**, da Silva, F. R., Provete, D. B. 2024. [Climate Interacts With Diversification Rate in Determining Species Richness and Trait Diversity of Tetrapods in a Global Hotspot](https://onlinelibrary.wiley.com/doi/10.1111/jbi.15001#). *Journal of Biogeography*, 51 (12), 2484-2497.
+Moroti, M. D. T., **Skeels, A.**, da Silva, F. R. & Provete, D. B. 2024. [Climate interacts with diversification rate in determining species richness and trait diversity of tetrapods in a global hotspot](https://onlinelibrary.wiley.com/doi/10.1111/jbi.15001). *Journal of Biogeography*, 51(12), 2484--2497.
 
-Langmore, N. E., Grealy, A. Noh, H.J., Medina, I., **Skeels, A.**, et al. 2024. [Coevolution with hosts underpins speciation in brood-parasitic cuckoos](#0){style="font-size: 14pt;"}. *Science*. 384,1030-1036.
+Langmore, N. E., Grealy, A., Noh, H. J., Medina, I., **Skeels, A.** et al. 2024. [Coevolution with hosts underpins speciation in brood-parasitic cuckoos](https://doi.org/10.1126/science.adj3210). *Science*, 384, 1030--1036.
 
-![Superb fairy wren (*Malurus cyaneus*) feeding a aparasitic cuckoo on the cover of Science for Langmore et al. (2024). Photo: Mark Lethlean](pictures/Science_Cover.jpg){width="500" fig-align="center"}
+![Superb fairy wren (*Malurus cyaneus*) feeding a parasitic cuckoo on the cover of Science for Langmore et al. (2024). Photo: Mark Lethlean](pictures/Science_Cover.jpg){width="500" fig-align="center"}
 
 #### 2023 {.center}
 
-Keggin, T. Waldock, C., **Skeels, A.**, Hagen O., Albouy, C., Manel, S., Pellissier, L. 2023. [Diversity across organisational scale emerges through dispersal ability and speciation dynamics in tropical fish](https://link.springer.com/article/10.1186/s12915-023-01771-3). *BMC Biology*. 21, 282.
+Keggin, T., Waldock, C., **Skeels, A.**, Hagen, O., Albouy, C., Manel, S. & Pellissier, L. 2023. [Diversity across organisational scale emerges through dispersal ability and speciation dynamics in tropical fish](https://link.springer.com/article/10.1186/s12915-023-01771-3). *BMC Biology*, 21, 282.
 
-Coelho, M.T.P., Barreto, E., Rangel, T.F. Diniz-Filho, J.A. F., Wüest, R. O., Bach, W. **Skeels, A.**, et al. 2023. [The geography of climate and the global patterns of species diversity](https://doi.org/10.1038/s41586-023-06577-5). *Nature* 622, 537--544.
+Coelho, M. T. P., Barreto, E., Rangel, T. F., Diniz-Filho, J. A. F., Wuest, R. O., Bach, W., **Skeels, A.** et al. 2023. [The geography of climate and the global patterns of species diversity](https://doi.org/10.1038/s41586-023-06577-5). *Nature*, 622, 537--544.
 
-Yaxley, K. J., **Skeels, A.**, & Foley, R. A. 2023. [Global variation in the relationship between avian phylogenetic diversity and functional distance is driven by environmental context and constraints](https://doi.org/10.1111/geb.13762). *Global Ecology and Biogeography*, 32, 2122--2134.
+Yaxley, K. J., **Skeels, A.** & Foley, R. A. 2023. [Global variation in the relationship between avian phylogenetic diversity and functional distance is driven by environmental context and constraints](https://doi.org/10.1111/geb.13762). *Global Ecology and Biogeography*, 32, 2122--2134.
 
-**Skeels, A.** & Yaxley, Y. 2023. [Functional endemism captures hotspots of unique phenotypes and restricted ranges](https://doi.org/10.1111/ecog.06913). *Ecography*. e06913.
+**Skeels, A.** & Yaxley, K. 2023. [Functional endemism captures hotspots of unique phenotypes and restricted ranges](https://doi.org/10.1111/ecog.06913). *Ecography*, e06913.
 
-Tiatragul, S., **Skeels, A.**, Keogh, J. S. 2023. [Paleoenvironmental models for Australia and the impact of aridification on blindsnake diversification](https://doi.org/10.1111/jbi.14700). *Journal of Biogeography*. 50, 1899--1913.
+**Skeels, A.**, Esquerré, D., Lipsky, D., Pellissier, L. & Boschman, L. M. 2023. [Elevational Goldilocks zone underlies the exceptional diversity of a large lizard radiation (Liolaemus; Liolaemidae)](https://doi.org/10.1093/evolut/qpad168). *Evolution*, 77(12), 2672--2686.
 
-**Skeels, A.**, Boschman, L., McFadden., I. M. et al. 2023. [Paleoenvironments shaped the exchange of terrestrial vertebrates across Wallace's Line](https://www.science.org/stoken/author-tokens/ST-1301/full). *Science*. 381, 86-92
+Tiatragul, S., **Skeels, A.** & Keogh, J. S. 2023. [Paleoenvironmental models for Australia and the impact of aridification on blindsnake diversification](https://doi.org/10.1111/jbi.14700). *Journal of Biogeography*, 50, 1899--1913.
 
-Cardillo, M., **Skeels, A.** Dinnage, R. 2023. [Priorities for conserving the world's terrestrial mammals based on over-the-horizon extinction risk](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fvEE3s4AAAAJ&sortby=pubdate&citation_for_view=fvEE3s4AAAAJ:_FxGoFyzp5QC). *Current Biology*. 33 (7), 1381-1388. e6.
+**Skeels, A.**, Boschman, L., McFadden, I. M. et al. 2023. [Paleoenvironments shaped the exchange of terrestrial vertebrates across Wallace's Line](https://www.science.org/stoken/author-tokens/ST-1301/full). *Science*, 381, 86--92.
+
+Cardillo, M., **Skeels, A.** & Dinnage, R. 2023. [Priorities for conserving the world's terrestrial mammals based on over-the-horizon extinction risk](https://doi.org/10.1016/j.cub.2023.02.046). *Current Biology*, 33(7), 1381--1388.e6.
 
 ![Long-nosed Bandicoot (*Perameles nasuta*) on the cover of Current Biology (Cardillo, Skeels, Dinnage 2023). Photo: D. Esquerre.](pictures/Current_Biology_Cover.jpg){width="500" fig-align="center"}
 
-**Skeels, A.**, Bach, W., Hagen, O., Jetz, W., Pellissier, L. 2023. [Temperature-Dependent Evolutionary Speed Shapes the Evolution of Biodiversity Patterns Across Tetrapod Radiations](https://doi.org/10.1093/sysbio/syac048). *Systematic Biology*. 72 (2), 341-356.
+**Skeels, A.**, Bach, W., Hagen, O., Jetz, W. & Pellissier, L. 2023. [Temperature-dependent evolutionary speed shapes the evolution of biodiversity patterns across tetrapod radiations](https://doi.org/10.1093/sysbio/syac048). *Systematic Biology*, 72(2), 341--356.
 
 #### 2022 {.center}
 
-Pavón‐Vázquez, C. J., Brennan, I. G., **Skeels, A.**, Keogh, J. S. 2022. [Competition and geography underlie speciation and morphological evolution in Indo‐Australasian monitor lizards](https://onlinelibrary.wiley.com/doi/10.1111/evo.14403). *Evolution*. 76 (3), 476-495.
+Pavón-Vázquez, C. J., Brennan, I. G., **Skeels, A.** & Keogh, J. S. 2022. [Competition and geography underlie speciation and morphological evolution in Indo-Australasian monitor lizards](https://onlinelibrary.wiley.com/doi/10.1111/evo.14403). *Evolution*, 76(3), 476--495.
 
 #### 2021 {.center}
 
-Hagen, O.\*, **Skeels, A.**\*, Onstein, R. E., Jetz, W., Pellissier, L. 2021. [Earth history events shaped the evolution of uneven biodiversity across tropical moist forests](https://www.pnas.org/content/118/40/e2026347118). *Proceedings of the National Academy of Sciences*. 118 (40) e2026347118. \*equal contribution
+Hagen, O.\*, **Skeels, A.**\*, Onstein, R. E., Jetz, W. & Pellissier, L. 2021. [Earth history events shaped the evolution of uneven biodiversity across tropical moist forests](https://www.pnas.org/content/118/40/e2026347118). *Proceedings of the National Academy of Sciences*, 118(40), e2026347118. \*equal contribution
 
-**Skeels, A.**, Dinnage, R. Medina, I. Cardillo, M. 2021. [Ecological interactions shape the evolution of flower colour in communities across a temperate biodiversity hotspot](http://doi.org/10.1002/evl3.225). *Evolution Letters*. 5 (3), 277-289.
+**Skeels, A.**, Dinnage, R., Medina, I. & Cardillo, M. 2021. [Ecological interactions shape the evolution of flower colour in communities across a temperate biodiversity hotspot](http://doi.org/10.1002/evl3.225). *Evolution Letters*, 5(3), 277--289.
 
-Bromham, L., **Skeels, A.**, Schneemann, H., Dinnage, R., Hua, X. 2021. [There is little evidence that spicy food in hot countries is an adaptation to reducing infection risk](https://www.nature.com/articles/s41562-020-01039-8). *Nature Human Behaviour*, 1-14.
+Bromham, L., **Skeels, A.**, Schneemann, H., Dinnage, R. & Hua, X. 2021. [There is little evidence that spicy food in hot countries is an adaptation to reducing infection risk](https://www.nature.com/articles/s41562-020-01039-8). *Nature Human Behaviour*, 5(7), 878--891.
 
-#### 2016-2020 {.centrehead}
+#### 2016--2020 {.centrehead}
 
-Dinnage, R., **Skeels, A.** & Cardillo, M. 2020. [Spatiophylogenetic modelling of extinction risk reveals evolutionary distinctiveness and brief flowering period as risk factors in a diverse hotspot plant genus](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.2817). *Proceedings of the Royal Society B*. 287 (1926), 20192817.
+Dinnage, R., **Skeels, A.** & Cardillo, M. 2020. [Spatiophylogenetic modelling of extinction risk reveals evolutionary distinctiveness and brief flowering period as risk factors in a diverse hotspot plant genus](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.2817). *Proceedings of the Royal Society B*, 287(1926), 20192817.
 
-**Skeels, A.** Esquerré, D., & Cardillo, M. 2020. [Alternative pathways to diversity across ecologically distinct lizard radiations](https://alexskeels.com/publications/void(0)). *Global Ecology and Biogeography*. 29 (3), 454-469.
+**Skeels, A.**, Esquerré, D. & Cardillo, M. 2020. [Alternative pathways to diversity across ecologically distinct lizard radiations](https://doi.org/10.1111/geb.13028). *Global Ecology and Biogeography*, 29(3), 454--469.
 
-**Skeels, A.** & Cardillo, M. 2019. [Equilibrium and non‐equilibrium phases in the radiation of hakea and the drivers of diversity in Mediterranean‐type ecosystems](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13769). *Evolution*. 73 (7) 1392-1410.
+**Skeels, A.** & Cardillo, M. 2019. [Equilibrium and non-equilibrium phases in the radiation of hakea and the drivers of diversity in Mediterranean-type ecosystems](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13769). *Evolution*, 73(7), 1392--1410.
 
-![*Hakea recurva*, a Southwest Australian endemic, on the cover of Evolution. Photo taken by me at the Australian National Botanical Gardens in Canberra](pictures/Evolution_Cover.png){width="500" fig-align="center"}
+![*Hakea recurva*, a Southwest Australian endemic, on the cover of Evolution. Photo taken by me at the Australian National Botanical Gardens in Canberra.](pictures/Evolution_Cover.png){width="500" fig-align="center"}
 
-**Skeels, A.** & Cardillo, M. 2019. [Reconstructing the Geography of Speciation from Contemporary Biodiversity Data](https://www.journals.uchicago.edu/doi/abs/10.1086/701125). *American Naturalist*. 193 (2), 240-255.
+**Skeels, A.** & Cardillo, M. 2019. [Reconstructing the geography of speciation from contemporary biodiversity data](https://www.journals.uchicago.edu/doi/abs/10.1086/701125). *American Naturalist*, 193(2), 240--255.
 
-**Skeels, A.** 2019. [Lineages through space and time plots: visualising spatial and temporal changes in diversity](https://doi.org/10.21425/F5FBG42954). *Frontiers of Biogeography*. 11 (2), e42954.
+**Skeels, A.** 2019. [Lineages through space and time plots: visualising spatial and temporal changes in diversity](https://doi.org/10.21425/F5FBG42954). *Frontiers of Biogeography*, 11(2), e42954.
 
-**Skeels, A.** & Cardillo, M. 2017. [Environmental niche conservatism explains the accumulation of species richness in Mediterranean‐hotspot plant genera](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13179). *Evolution*. 71 (3), 582-594.
+**Skeels, A.** & Cardillo, M. 2017. [Environmental niche conservatism explains the accumulation of species richness in Mediterranean-hotspot plant genera](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13179). *Evolution*, 71(3), 582--594.
 
-Cardillo, M. & **Skeels A.** 2016. [Spatial, phylogenetic, environmental and biological components of variation in extinction risk: a case study using Banksia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0154431). *PLoS One*. 11(5) e0154431.
+Cardillo, M. & **Skeels, A.** 2016. [Spatial, phylogenetic, environmental and biological components of variation in extinction risk: a case study using Banksia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0154431). *PLoS One*, 11(5), e0154431.
 
-#### Book Chapters
+#### Book chapters {.centrehead}
 
-Esquerré, D., **Skeels, A.** (2026). [Biogeographic Patterns of Richness and Endemism in Liolaemidae: Identifying Hotspots for the Most Diverse Andean Reptile Radiation](https://doi.org/10.1007/978-3-032-00074-3_5). In: Urbina-Cardona, J.N., Navas, C.A., Catenazzi, A., Piantoni, C. (eds) *Andean Herpetofauna*. Sustainable Development Goals Series. Springer, Cham.
+Esquerré, D. & **Skeels, A.** (2026). [Biogeographic patterns of richness and endemism in Liolaemidae: Identifying hotspots for the most diverse Andean reptile radiation](https://doi.org/10.1007/978-3-032-00074-3_5). In: Urbina-Cardona, J. N., Navas, C. A., Catenazzi, A. & Piantoni, C. (eds) *Andean Herpetofauna*. Sustainable Development Goals Series. Springer, Cham.
 
-#### Notes, and commentaries {.centrehead}
+#### Notes and commentaries {.centrehead}
 
-O. El‐Deeb\*, **Skeels, A.**\*, & Brennan, I. 2020. [Digest: The evolutionary relationship between environment and size in Australian rodents](https://alexskeels.com/publications/void(0)). Evolution. [doi.org/10.1111/evo.13909](https://doi.org/10.1111/evo.13909). \*equal contribution
+O. El-Deeb\*, **Skeels, A.**\* & Brennan, I. 2020. [Digest: The evolutionary relationship between environment and size in Australian rodents](https://doi.org/10.1111/evo.13909). *Evolution*. \*equal contribution
 
 ### General audience / explainers {.centrehead}
 
-Skeels, A. 2023. [Why are there hopping mice in Australia but no kangaroos in Asia? It's a long story](https://theconversation.com/why-are-there-hopping-mice-in-australia-but-no-kangaroos-in-asia-its-a-long-story-209067). The Conversation.
+Skeels, A. 2023. [Why are there hopping mice in Australia but no kangaroos in Asia? It's a long story](https://theconversation.com/why-are-there-hopping-mice-in-australia-but-no-kangaroos-in-asia-its-a-long-story-209067). The Conversation.
 
 ANU media. 2023. [Here's why you won't find kangaroos outside of Australia](https://www.anu.edu.au/news/all-news/heres-why-you-wont-find-kangaroos-outside-of-australia). ANU media release.
 
-Skeels, A. 2021. [Competition drives flower colour evolution in a biodiversity hotspot](https://alexskeels.com/?page_id=252). Explainer in *Evolution Letters*.
+Skeels, A. 2021. [Competition drives flower colour evolution in a biodiversity hotspot](https://doi.org/10.1002/evl3.225). Explainer in *Evolution Letters*.
 
 ANU media. 2021. [New research could help save species from extinction](https://www.anu.edu.au/news/all-news/new-research-could-help-save-species-from-extinction). ANU media release.
 :::

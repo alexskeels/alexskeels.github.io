@@ -4,6 +4,7 @@ project:
 website:
   title: "Alex Skeels"
   navbar:
+    background: dark
     left:
       - href: index.qmd
         text: Home
@@ -15,8 +16,9 @@ website:
       - contact.qmd
 format:
   html:
-    theme: journal
-    css: styles.css
+    theme:
+      - journal
+      - custom.scss
     toc: true
     grid:
       sidebar-width: 300px
@@ -24,4 +26,3 @@ format:
       margin-width: 300px
       gutter-width: 1.5rem
 editor: visual
-

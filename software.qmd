@@ -4,26 +4,20 @@ format: html
 engine: knitr
 ---
 
-```{css, echo = FALSE}
-.justify {
-  text-align: justify !important
-}
-```
-
-::: justify
-### Workshop Materials {style="text-align: center;"}
+::: {.centered-content}
+### Workshop Materials
 
 [Center for Biodiversity Analysis: Gen3sis Workshop 2024](https://alexskeels.github.io/CBAGen3sis)
 
 ![](pictures/gen3sis.jpg){width="500" fig-align="center"}
 
-### R Tools {style="text-align: center;"}
+### R Tools
 
 [DReAD: a package for biodiversity simulation](https://github.com/alexskeels/DynamicRangeEvolutionAndDiversification)
 
 ![](pictures/DREAD.webp){width="300" fig-align="center"}
 
-[ltstR: : a package to visualize spatial and temporal changes in diversity](https://github.com/alexskeels/ltstR)
+[ltstR: a package to visualize spatial and temporal changes in diversity](https://github.com/alexskeels/ltstR)
 
 ![](pictures/ltstr.PNG){width="300" fig-align="center"}
 

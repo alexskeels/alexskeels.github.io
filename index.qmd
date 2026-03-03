@@ -9,6 +9,22 @@ include-in-header:
       .quarto-title-block .quarto-title-banner {
         background-position-y: center;
         height: 200px;
+        position: relative;
+      }
+      .quarto-title-block .quarto-title-banner::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: rgba(158, 150, 214, 0.5);
+      }
+      .quarto-title-block .quarto-title-banner .quarto-title-banner-contents {
+        position: relative;
+        z-index: 1;
+      }
+      .quarto-title-block .quarto-title-banner h1.title {
+        color: #ffffff !important;
+        border-bottom: none !important;
+        text-shadow: 0 2px 6px rgba(60, 50, 100, 0.5);
       }
       </style>
 ---
@@ -24,7 +40,7 @@ Hi, I'm an ARC DECRA Fellow in the [Macroevolution and Macroecology Group](http:
 
 ![](pictures/me2.jpg){width="500" fig-align="center"}
 
-My research explores biodiversity patterns and the evolutionary histories of the myriad plant and animal groups that shape them. I'm interested in why some areas, like tropical rainforests, consistently host high biodiversity. But I'm equally drawn to regions that challenge expectations about how biodiversity is formed, for example, the unexpectedly high diversity of reptiles in Australia's arid zone, or the remarkable richness of endemic plant species in Mediterranean-type climates around the globe. To investigate these topics, I integrate spatial, phylogenetic, and ecological-trait data combined with **simulation modeling** and **phylogenetic comparative methods**, while also considering how global change in the past, present, and future is reshaping these systems
+My research explores biodiversity patterns and the evolutionary histories of the myriad plant and animal groups that shape them. I'm interested in why some areas, like tropical rainforests, consistently host high biodiversity. But I'm equally drawn to regions that challenge expectations about how biodiversity is formed, for example, the unexpectedly high diversity of reptiles in Australia's arid zone, or the remarkable richness of endemic plant species in Mediterranean-type climates around the globe. To investigate these topics, I integrate spatial, phylogenetic, and ecological-trait data combined with **simulation modeling** and **phylogenetic comparative methods**, while also considering how global change in the past, present, and future is reshaping these systems.
 
 ![](pictures/Banksia.jpg){width="300" fig-align="center"}
 :::

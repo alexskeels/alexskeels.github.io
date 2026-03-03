@@ -1,0 +1,233 @@
+/*-- scss:defaults --*/
+
+// Vaporwave pastels palette
+$lavender: #bfb9ff;
+$lavender-deep: #9E96D6;
+$cyan: #afe9ff;
+$pink: #ffcfea;
+$mint: #cbffe6;
+$lemon: #feffbe;
+
+// Derived tints
+$lavender-faint: #EEEDFF;
+$pink-faint: #FFF0F7;
+$near-white: #FDFCFF;
+
+// Bootstrap overrides
+$primary: $lavender-deep;
+$link-color: #8B82C8;
+$link-hover-color: #E08AB8;
+
+// Navbar
+$navbar-bg: $lavender-deep;
+$navbar-fg: #ffffff;
+
+// Fonts
+$font-family-sans-serif: "Source Sans Pro", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$headings-font-family: "Source Sans Pro", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$headings-font-weight: 600;
+$font-size-base: 1rem;
+
+// Body
+$body-bg: $near-white;
+$body-color: #3d3d3d;
+
+/*-- scss:rules --*/
+
+// Navbar - soft lavender with pink accent
+.navbar {
+  background-color: $lavender-deep !important;
+  border-bottom: 3px solid $pink;
+  box-shadow: 0 2px 6px rgba(158, 150, 214, 0.15);
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #ffffff !important;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link.active {
+  color: $pink !important;
+}
+
+// Title banner overlay
+.quarto-title-banner {
+  background-color: $lavender-deep;
+}
+
+// Links
+a {
+  color: #8B82C8;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #E08AB8;
+  text-decoration: underline;
+}
+
+// Page title
+.quarto-title > h1.title {
+  color: $lavender-deep;
+  font-weight: 700;
+  border-bottom: 2px solid $cyan;
+  padding-bottom: 0.4rem;
+}
+
+// Section headings
+h3 {
+  color: $lavender-deep;
+  font-weight: 600;
+  margin-top: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+h4 {
+  color: #7BBFD4;
+  font-weight: 600;
+}
+
+// Center head class
+.centrehead h3 {
+  text-align: center;
+}
+
+// Justified text
+.justify {
+  text-align: justify !important;
+}
+
+// Content body
+#quarto-content {
+  background-color: $near-white;
+}
+
+// Sidebar / TOC styling
+.sidebar nav[role="doc-toc"] {
+  border-left: 2px solid $cyan;
+}
+
+.sidebar nav[role="doc-toc"] a {
+  color: $lavender;
+}
+
+.sidebar nav[role="doc-toc"] a:hover,
+.sidebar nav[role="doc-toc"] a.active {
+  color: #E08AB8;
+  font-weight: 600;
+}
+
+// Images - blend white backgrounds into page
+.quarto-figure img {
+  border-radius: 6px;
+  mix-blend-mode: multiply;
+}
+
+// Publication year headers
+.center {
+  text-align: center;
+}
+
+// Publication entries - justified text
+.justify p {
+  text-align: justify !important;
+  margin-bottom: 0.8rem;
+  line-height: 1.65;
+}
+
+// All figures centered globally - override justify inheritance
+div.quarto-figure {
+  text-align: center !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+div.quarto-figure p,
+div.quarto-figure figure,
+div.quarto-figure figure p {
+  text-align: center !important;
+}
+
+figcaption,
+.figure-caption {
+  text-align: center !important;
+}
+
+// Research section cards - faint lavender with cyan top accent
+.research-section {
+  background: $lavender-faint;
+  border: 1px solid $lavender;
+  border-top: 3px solid $cyan;
+  border-radius: 8px;
+  padding: 1.5rem 2rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 1px 4px rgba(158, 150, 214, 0.08);
+}
+
+.research-section h3 {
+  text-align: center;
+  margin-top: 0.5rem;
+  color: $lavender-deep;
+}
+
+// Paper links list - faint pink with cyan border
+.related-papers {
+  background-color: $pink-faint;
+  border-left: 3px solid $cyan;
+  border-radius: 0 6px 6px 0;
+  padding: 0.8rem 1.2rem;
+  margin-top: 1rem;
+  font-size: 0.9rem;
+}
+
+.related-papers strong {
+  color: $lavender-deep;
+  display: block;
+  margin-bottom: 0.3rem;
+}
+
+.related-papers ul {
+  margin-bottom: 0;
+  padding-left: 1.2rem;
+}
+
+.related-papers li {
+  margin-bottom: 0.25rem;
+}
+
+// Bold author names
+.justify strong {
+  color: #5E5399;
+}
+
+// Footer
+.nav-footer {
+  background-color: $lavender-deep;
+  color: #ffffff;
+  border-top: 3px solid $cyan;
+}
+
+// Cover images
+.quarto-figure-center {
+  margin: 1.5rem auto;
+}
+
+// Centered content pages (Resources, Contact, Posters)
+.centered-content {
+  text-align: center;
+}
+
+.centered-content h3 {
+  text-align: center;
+}
+
+// Responsive tweaks
+@media (max-width: 768px) {
+  .research-section {
+    padding: 1rem 1.2rem;
+  }
+}

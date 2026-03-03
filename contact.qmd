@@ -4,13 +4,7 @@ format: html
 engine: knitr
 ---
 
-```{css, echo = FALSE}
-.justify {
-  text-align: justify !important
-}
-```
-
-::: justify
+::: {.centered-content}
 Email: alexander.skeels\[at\]anu\[dot\]edu\[dot\]au
 
 [ORCID](https://orcid.org/0000-0002-9973-4703)
