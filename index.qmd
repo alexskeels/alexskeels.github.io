@@ -2,7 +2,7 @@
 title: "Biodiversity change across space and time"
 format: html
 engine: knitr
-title-block-banner: pictures/tassy2.jpg
+title-block-banner: pictures/tassy2.JPG
 include-in-header:
   - text: |
       <style>
@@ -15,16 +15,18 @@ include-in-header:
         content: "";
         position: absolute;
         inset: 0;
-        background: rgba(158, 150, 214, 0.5);
+        background: rgba(191, 185, 255, 0.25);
       }
       .quarto-title-block .quarto-title-banner .quarto-title-banner-contents {
         position: relative;
-        z-index: 1;
+        z-index: 2;
       }
       .quarto-title-block .quarto-title-banner h1.title {
         color: #ffffff !important;
         border-bottom: none !important;
-        text-shadow: 0 2px 6px rgba(60, 50, 100, 0.5);
+        font-weight: 700;
+        letter-spacing: 0.02em;
+        text-shadow: 0 1px 4px rgba(0, 0, 0, 0.7), 0 0 16px rgba(0, 0, 0, 0.4);
       }
       </style>
 ---
