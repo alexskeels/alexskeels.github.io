@@ -96,9 +96,9 @@ h4 {
   text-align: center;
 }
 
-// Justified text
+// Left-aligned text
 .justify {
-  text-align: justify !important;
+  text-align: left !important;
 }
 
 // Content body
@@ -132,11 +132,46 @@ h4 {
   text-align: center;
 }
 
-// Publication entries - justified text
+// Publication entries
 .justify p {
-  text-align: justify !important;
+  text-align: left !important;
   margin-bottom: 0.8rem;
   line-height: 1.65;
+}
+
+// Float image right on home page
+.img-float-right {
+  float: right;
+  margin: 0 0 1rem 1.5rem;
+  max-width: 280px;
+}
+
+.img-float-left {
+  float: left;
+  margin: 0 1.5rem 1rem 0;
+  max-width: 250px;
+}
+
+.img-float-right img,
+.img-float-left img {
+  border-radius: 6px;
+  width: 100%;
+}
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media (max-width: 576px) {
+  .img-float-right,
+  .img-float-left {
+    float: none;
+    max-width: 100%;
+    margin: 1rem auto;
+    text-align: center;
+  }
 }
 
 // All figures centered globally - override justify inheritance

@@ -104,11 +104,19 @@ Coordinator, Ecology and Evolution Seminar Series, Research School of Biology, A
 
 [Publons](https://publons.com/researcher/1565074/alexander-skeels/); Science Advances, Nature Ecology and Evolution, Nature Sustainability, PNAS, PLOS Biology, Trends in Ecology and Evolution, Biological Reviews, New Phytologist, Ecology Letters, Proceedings of the Royal Society B: Biological Sciences, Methods in Ecology and Evolution, Systematic Biology, Global Ecology and Biogeography, Evolution, Journal of Evolutionary Biology, Science of the Total Environment, Journal of Biogeography, Molecular Phylogenetics and Evolution, Biological Journal of the Linnean Society, Biodiversity and Conservation, PLOS One, Ecosphere, Ecology and Evolution, Frontiers of Biogeography.
 
+**Workshops**
+
+Gen3sis: Simulating the Evolution of Biodiversity. Center for Biodiversity Analysis, Australian National University, Canberra (30 Sep -- 2 Oct 2024). Instructors: Alexander Skeels, Oskar Hagen, Tristan Salles.
+
+Mechanistic Spatially Explicit Eco-Evolutionary Biodiversity Modelling. yDiv, Leipzig, Germany (14--18 Nov 2022). Instructors: Oskar Hagen, Alexander Skeels, Benjamin Rosenbaum, Florian Hartig.
+
 **Teaching**
 
-2025: Lecturer, Australian National University.
+2025--2026: Lecturer, Australian National University.
 
 BIOL8002: Advanced Topics in Quantitative Biology
+
+BIOL3207: Data Science for Biologists
 
 2023-2024: Guest Lecturer, Australian National University.
 
