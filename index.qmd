@@ -35,10 +35,8 @@ Hi, I'm an ARC DECRA Fellow in the [Macroevolution and Macroecology Group](http:
 
 My research explores biodiversity patterns and the evolutionary histories of the myriad plant and animal groups that shape them. I'm interested in why some areas, like tropical rainforests, consistently host high biodiversity. But I'm equally drawn to regions that challenge expectations about how biodiversity is formed, for example, the unexpectedly high diversity of reptiles in Australia's arid zone, or the remarkable richness of endemic plant species in Mediterranean-type climates around the globe. To investigate these topics, I integrate spatial, phylogenetic, and ecological-trait data combined with **simulation modeling** and **phylogenetic comparative methods**, while also considering how global change in the past, present, and future is reshaping these systems.
 
-::: {layout-ncol=3}
-![](pictures/me2.jpg)
-
-![](pictures/Banksia.jpg)
-
-![](pictures/20260101_121526.jpg)
-:::
+<div class="home-gallery">
+<img src="pictures/me2.jpg" alt="">
+<img src="pictures/Banksia.jpg" alt="">
+<img src="pictures/20260101_121526.jpg" alt="">
+</div>

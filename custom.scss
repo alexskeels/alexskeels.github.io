@@ -260,6 +260,37 @@ figcaption,
   text-align: center;
 }
 
+// Home page gallery - equal height, no gaps
+.home-gallery {
+  margin-top: 1.5rem;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.home-gallery p {
+  display: flex;
+  gap: 4px;
+  margin: 0;
+}
+
+.home-gallery img {
+  flex: 1;
+  min-width: 0;
+  height: 250px;
+  object-fit: cover;
+  display: block;
+}
+
+@media (max-width: 576px) {
+  .home-gallery {
+    flex-direction: column;
+  }
+  .home-gallery img {
+    height: 200px;
+    width: 100%;
+  }
+}
+
 // Responsive tweaks
 @media (max-width: 768px) {
   .research-section {
