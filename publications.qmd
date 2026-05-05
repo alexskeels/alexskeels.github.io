@@ -9,9 +9,15 @@ engine: knitr
 
 #### 2026 {.center}
 
-Ding, W., Ree, R., May, M., Brun, P., Hagen, O., Karger, D., **Skeels, A.**, Pellissier, L., Xing, Y. & Zimmerman, N. (2026). The asynchronous rise of Northern Hemisphere alpine floras reveals general responses of biotic assembly to orogeny and climate change. *Science Advances*. In press.
+Kearns, M., **Skeels, A.**, Yaxley, K. & Cardillo, M. 2026. [Conservation priority areas based on phylogenetic diversity are sensitive to methods of phylogenetic inference and divergence time estimation](https://doi.org/10.1111/ddi.70166). *Diversity and Distributions*, 32(3), e70166.
+
+*Preprint:* Tiatragul, S., Brennan, I. G., **Skeels, A.**, Esquerré, D., Zozaya, S. M., Keogh, J. S. & Pepper, M. 2026. [Aridification and habitat shifts drove diversification in Australian diplodactylid geckos](https://doi.org/10.64898/2026.03.23.713808). *bioRxiv*, 2026.03.23.713808.
+
+*Preprint:* Keggin, T., **Skeels, A.**, Hagen, O., Melián, C. J. & Waldock, C. 2026. [Unexpected global biodiversity responses to climate change arise from complex adaptation, seascape, and dispersal dynamics](https://doi.org/10.64898/2026.03.03.707980). *bioRxiv*, 2026.03.03.707980.
 
 #### 2025 {.center}
+
+Ding, W., Ree, R., May, M., Brun, P., Hagen, O., Karger, D., **Skeels, A.**, Pellissier, L., Xing, Y. & Zimmerman, N. 2025. [The asynchronous rise of Northern Hemisphere alpine floras reveals general responses of biotic assembly to orogeny and climate change](https://doi.org/10.1126/sciadv.adz1888). *Science Advances*, 11, eadz1888.
 
 Lorcery, M., Husson, L., Salles, T., Lavergne, S., Hagen, O. & **Skeels, A.** 2025. [Deep time evolution of the Latitudinal Diversity Gradient: Insights from mechanistic models](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332766). *PLoS One*, 20(9), e0332766.
 
