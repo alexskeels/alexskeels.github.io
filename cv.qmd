@@ -74,7 +74,7 @@ Biotic interchanges across taxa through molecular and fossil data. 3rd Joint Con
 
 **Awards and Grants**
 
-Discovery Early Career Research Award, Australian Research Council *(2025)* -- DE250100004: *How environmental change drives the origin and decline of biodiversity* -- ARC: **\$486,675** + ANU: **\$175,526**
+Discovery Early Career Research Award, Australian Research Council *(2025)* -- DE250100004: *How environmental change drives the origin and decline of biodiversity* -- ARC: **\$486,675** 
 
 Research School of Biology Early Career Researcher Travel top-up grant, Australian National University *(2024)* -- **\$2,000**
 
@@ -96,9 +96,11 @@ Graduate Student Research Award, Society of Systematic Biologists *(2018)* -- **
 
 [Elected Member]{style="color: #9E96D6; font-weight: 600;"}, NTEU Branch Committee *(2024--2026)*
 
-[NTEU Delegate]{style="color: #9E96D6; font-weight: 600;"}, Research School of Biology, Australian National University *(2026)*
+[NTEU Delegate]{style="color: #9E96D6; font-weight: 600;"}, Research School of Biology, Australian National University *(2026-)*
 
 [Coordinator]{style="color: #9E96D6; font-weight: 600;"}, Ecology and Evolution Seminar Series, Research School of Biology, Australian National University *(2024--2026)*
+
+[Reviewer Board]{style="color: #9E96D6; font-weight: 600;"}, Biogeography (2026-)
 
 **Reviews**
 
