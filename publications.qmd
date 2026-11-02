@@ -9,9 +9,15 @@ engine: knitr
 
 #### 2026 {.center}
 
-Kearns, M., **Skeels, A.**, Yaxley, K. & Cardillo, M. 2026. [Conservation priority areas based on phylogenetic diversity are sensitive to methods of phylogenetic inference and divergence time estimation](https://doi.org/10.1111/ddi.70166). *Diversity and Distributions*, 32(3), e70166.
+**Skeels, A.**, Rogger, J., Cardillo, M., Farnsworth, A., Lunt, D. J. & Karger, D. N. 2026. [High-resolution paleobiome reconstructions highlight ecological and historical dynamics underpinning global terrestrial vertebrate diversity](https://doi.org/10.1371/journal.pbio.3004077). *PLoS Biology*, 24(10), e3004077.
 
-*Preprint:* Tiatragul, S., Brennan, I. G., **Skeels, A.**, Esquerré, D., Zozaya, S. M., Keogh, J. S. & Pepper, M. 2026. [Aridification and habitat shifts drove diversification in Australian diplodactylid geckos](https://doi.org/10.64898/2026.03.23.713808). *bioRxiv*, 2026.03.23.713808.
+**Skeels, A.**, Yaxley, K. & Cardillo, M. 2026. Three forms of distinctiveness: the macroecology of geographically restricted, functionally unique and evolutionarily distinct species. *Ecography*. In press.
+
+O'Sullivan, J. L., **Skeels, A.**, Foster, C. N., Scheele, B. C., Michael, D. R. & Lindenmayer, D. B. 2026. Global status and threats to rock-dependent reptiles. *Conservation Letters*. In press.
+
+Tiatragul, S., Brennan, I. G., **Skeels, A.**, Esquerré, D., Zozaya, S. M., Keogh, J. S. & Pepper, M. 2026. [Aridification and habitat shifts are associated with diversification in Australian diplodactylid geckos](https://doi.org/10.1093/sysbio/syag066). *Systematic Biology*, syag066.
+
+Kearns, M., **Skeels, A.**, Yaxley, K. & Cardillo, M. 2026. [Conservation priority areas based on phylogenetic diversity are sensitive to methods of phylogenetic inference and divergence time estimation](https://doi.org/10.1111/ddi.70166). *Diversity and Distributions*, 32(3), e70166.
 
 *Preprint:* Keggin, T., **Skeels, A.**, Hagen, O., Melián, C. J. & Waldock, C. 2026. [Unexpected global biodiversity responses to climate change arise from complex adaptation, seascape, and dispersal dynamics](https://doi.org/10.64898/2026.03.03.707980). *bioRxiv*, 2026.03.03.707980.
 
